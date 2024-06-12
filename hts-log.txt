@@ -1,0 +1,51 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 18 Mar 2024 21:46:34 at https://themesflat.co/html/gettree/?storefront=envato-elements +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themesflat.co/html/gettree/?storefront=envato-elements -O1 "C:\Users\HP\Downloads\new Agric" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:46:37	Warning: 	Note: due to https://themesflat.co remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+21:57:34	Warning: 	Retry after error -2 (Receive Time Out) at link https://themesflat.co/html/gettree/rev-slider/js/jquery.themepunch.revolution.min.js (from https://themesflat.co/html/gettree/?storefront=envato-elements)
+21:57:34	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/fonts/glyphicons-halflings-regular.eot (from https://themesflat.co/html/gettree/stylesheet/bootstrap.css)
+21:57:34	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/fonts/glyphicons-halflings-regular.eot? (from https://themesflat.co/html/gettree/stylesheet/bootstrap.css)
+21:57:34	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/fonts/glyphicons-halflings-regular.woff2 (from https://themesflat.co/html/gettree/stylesheet/bootstrap.css)
+21:57:34	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/fonts/glyphicons-halflings-regular.woff (from https://themesflat.co/html/gettree/stylesheet/bootstrap.css)
+21:57:34	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/fonts/glyphicons-halflings-regular.ttf (from https://themesflat.co/html/gettree/stylesheet/bootstrap.css)
+21:57:34	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/fonts/glyphicons-halflings-regular.svg (from https://themesflat.co/html/gettree/stylesheet/bootstrap.css)
+22:02:55	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/stylesheet/fonts/icomoon.eot?xywzke (from https://themesflat.co/html/gettree/stylesheet/style.css)
+22:02:55	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/stylesheet/fonts/icomoon.ttf?xywzke (from https://themesflat.co/html/gettree/stylesheet/style.css)
+22:02:55	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/stylesheet/fonts/icomoon.woff?xywzke (from https://themesflat.co/html/gettree/stylesheet/style.css)
+22:02:55	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/stylesheet/fonts/icomoon.svg?xywzke (from https://themesflat.co/html/gettree/stylesheet/style.css)
+22:02:55	Warning: 	Retry after error -2 (Receive Time Out) at link https://themesflat.co/html/gettree/fonts/icomoon.svg?rxj9r8 (from https://themesflat.co/html/gettree/stylesheet/icomoon.css)
+22:02:55	Warning: 	Retry after error -2 (Receive Time Out) at link https://themesflat.co/html/gettree/images/shop/item1.png (from https://themesflat.co/html/gettree/home-2.html)
+22:02:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themesflat.co/html/gettree/images/Counter/the-man-working-tree.jpg (from https://themesflat.co/html/gettree/home-2.html)
+22:04:38	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/page-blog-single.html (from https://themesflat.co/html/gettree/blog-detail.html)
+22:04:38	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/stylesheet/fonts/flexslider-icon.eot (from https://themesflat.co/html/gettree/stylesheet/flexslider.css)
+22:04:38	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/stylesheet/fonts/flexslider-icon.eot? (from https://themesflat.co/html/gettree/stylesheet/flexslider.css)
+22:04:38	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/stylesheet/fonts/flexslider-icon.woff (from https://themesflat.co/html/gettree/stylesheet/flexslider.css)
+22:04:38	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/stylesheet/fonts/flexslider-icon.ttf (from https://themesflat.co/html/gettree/stylesheet/flexslider.css)
+22:04:38	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/stylesheet/fonts/flexslider-icon.svg (from https://themesflat.co/html/gettree/stylesheet/flexslider.css)
+22:04:38	Warning: 	File not parsed, looks like binary: https://themesflat.co/html/gettree/fonts/fontawesome-webfont.woff2?v=4.7.0
+22:06:25	Warning: 	Retry after error -2 (Receive Time Out) at link https://themesflat.co/html/gettree/images/home/person-cutthetree.jpg (from https://themesflat.co/html/gettree/stylesheet/shortcodes.css)
+22:06:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themesflat.co/html/gettree/images/home/plants-pot-with-watering-can.jpg (from https://themesflat.co/html/gettree/stylesheet/shortcodes.css)
+22:06:25	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/stylesheet/owl.video.play.png (from https://themesflat.co/html/gettree/stylesheet/owl.carousel.css)
+22:06:25	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/rev-slider/fonts/revicons/revicons90c690c6.eot?5510888 (from https://themesflat.co/html/gettree/rev-slider/css/settings.css)
+22:06:25	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/rev-slider/fonts/revicons/revicons90c690c6.woff?5510888 (from https://themesflat.co/html/gettree/rev-slider/css/settings.css)
+22:06:25	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/rev-slider/fonts/revicons/revicons90c690c6.ttf?5510888 (from https://themesflat.co/html/gettree/rev-slider/css/settings.css)
+22:06:25	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/rev-slider/fonts/revicons/revicons90c690c6.svg?5510888 (from https://themesflat.co/html/gettree/rev-slider/css/settings.css)
+22:06:25	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/rev-slider/css/openhand.123 (from https://themesflat.co/html/gettree/rev-slider/css/settings.css)
+22:06:25	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/rev-slider/css/closedhand.123 (from https://themesflat.co/html/gettree/rev-slider/css/settings.css)
+22:06:25	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/rev-slider/assets/gridtile.png (from https://themesflat.co/html/gettree/rev-slider/css/settings.css)
+22:06:25	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/rev-slider/assets/gridtile_white.png (from https://themesflat.co/html/gettree/rev-slider/css/settings.css)
+22:06:25	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/rev-slider/assets/gridtile_3x3.png (from https://themesflat.co/html/gettree/rev-slider/css/settings.css)
+22:06:25	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/rev-slider/assets/gridtile_3x3_white.png (from https://themesflat.co/html/gettree/rev-slider/css/settings.css)
+22:06:25	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/rev-slider/assets/coloredbg.png (from https://themesflat.co/html/gettree/rev-slider/css/settings.css)
+22:06:25	Error: 	"Not Found" (404) at link https://themesflat.co/html/gettree/rev-slider/assets/loader.gif (from https://themesflat.co/html/gettree/rev-slider/css/settings.css)
+22:06:25	Warning: 	Retry after error -2 (Receive Time Out) at link https://themesflat.co/html/gettree/images/shop/item1.png (from https://themesflat.co/html/gettree/home-2.html)
+22:06:25	Warning: 	Retry after error -2 (Receive Time Out) at link https://themesflat.co/html/gettree/images/Counter/the-man-working-tree.jpg (from https://themesflat.co/html/gettree/home-2.html)
+22:08:52	Warning: 	Retry after error -4 (Incorrect length (1215743 Bytes, 1996576 expected)) at link https://themesflat.co/html/gettree/images/home/person-cutthetree.jpg (from https://themesflat.co/html/gettree/stylesheet/shortcodes.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 minutes 51 seconds : 176 links scanned, 137 files written (16949952 bytes overall) [16991979 bytes received at 11396 bytes/sec], 2826903 bytes transferred using HTTP compression in 42 files, ratio 17%, 1.2 requests per connection
+(29 errors, 11 warnings, 0 messages)
